@@ -1,1 +1,1 @@
-# brain-MRI-analysis-for-AD-detection-using-CNN
+# Brain-MRI-Analysis-for-AD-detection-using-CNNs
